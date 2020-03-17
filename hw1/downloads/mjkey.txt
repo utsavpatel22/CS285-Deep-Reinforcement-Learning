@@ -1,0 +1,20 @@
+MuJoCo Pro Personal license activation key, number 71221, type 6.
+
+Issued to Utsav Vishnubhai Patel <upatel22@umd.edu>.
+
+Expires March 17, 2021.
+
+This file activates MuJoCo Pro on a single computer with id:
+LINUX_0P6002LM21854S41E_7DZ0KTDZ158
+
+Do not modify this file. Its entire content, including the
+plain text section, is used by the activation manager.
+
+aefb6c1e5ba876b6a9fcdba1009816ee180c0096ea915b3245b49b77e972fe81
+9fdd3c1aa2ce4b865a59fad9dd1e19260f8b3b9e6f034d7dd1d415c462cc132f
+8d295269bf8f5fa31a9fab84db6c2bb26d80198eccab3ce6097969f47b02876a
+1b654283862314c46480c250953150649a1212b6f55bcbdcae3eea42d7cffb20
+f03f65f87c4fd5230f653b2f47151cdf7ee9d6db15601b69e958903ade18f104
+5a8bc591daf3439753b9500ba25da420a1e93c4bd3af773070ec653b7500f7a2
+0fd213c318fca4785c536eedf76b9d47ef094faa300b39cbb849c6b07dee0586
+a102a353b7e9e14c76cd611639796fef27a3733f9b4720af05d6605a20ac011e
